@@ -1,0 +1,34 @@
+<html>
+
+ <head>
+        <title>ini latihan html agung</title>
+ <head>
+
+<body>
+daftar nama siswa
+<table border=1>
+    <tr bgcolor=red>
+        <td>No</td>
+        <td bgcolor="blue">nama</td>
+        <td bgcolor="yellow">jenis kelamin</td>
+        <td bgcolor="white">alamat</td>
+</tr>
+<tr>
+    <td>1</td><td>facry</td><td>laki-laki</td><td>sentul</td>
+</tr>
+<td>2</td><td>agung</td><td>laki-laki</td><td>bogor</td>
+</tr>
+<td>3</td><td>anggan</td><td>laki-laki</td><td>tanggerang</td>
+</tr>
+<td>4</td><td>romy</td><td>laki-laki</td><td>sukabumi</td>
+</tr>
+<td>5</td><td>reza</td><td>laki-laki</td><td>tanggerang</td>
+</tr>
+<td>6</td><td>mukhtar</td><td>laki-laki</td><td>depok</td>
+</tr>
+<td>7</td><td>alya</td><td>perempuan</td><td>bekasi</td>
+</tr>
+</table>
+
+
+</html>
